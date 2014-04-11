@@ -1,0 +1,5 @@
+## akechi.github.io
+
+Source files of this site are available on [akechi/web repository](https://github.com/akechi/web).
+
+Clone web repository and execute `bundle exec middleman deploy` to deploy to this repository.
